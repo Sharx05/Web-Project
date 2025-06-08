@@ -1,0 +1,35 @@
+  tr{
+        height:60px;
+    }
+   th,td{
+        padding-left:6px;
+    }
+  label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid white;
+    color: grey;
+    
+    border-radius:40px;
+}
+.cus{
+    background-color:lightgray;
+}
+
+.mod{
+     margin: 0;
+     display:flex;
+     justify-content:center; 
+     align-items:center; 
+     height:100vh; 
+     background:#f5f5f5; 
+}
+
+body{
+    text-align:justify;
+    font-family: 'Courier New', Courier, monospace;
+}
